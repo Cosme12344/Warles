@@ -1,0 +1,11 @@
+ID/Nome/Idade/Turma/Nota
+1/Lucas/14/1B/7.8
+2/Mariana/17/2A/8.9
+3/Pedro/16/2C/6.7
+4/Beatriz/15/1A/9.3
+5/Rafael/18/3A/7.2
+6/Camila/16/2B/8.4
+7/Thiago/17/3B/6.5
+8/Isabela/15/1C/9.0
+9/Andre/14/1A/7.1
+10/Carolina/18/3C/8.6
